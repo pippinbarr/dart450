@@ -8,3 +8,8 @@ Some description of the CSS styling
 */
 
 /* Actual CSS goes below here! */
+
+#name {
+  font-family: Helvetica, sans-serif;
+  font-size: 100em;
+}
